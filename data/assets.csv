@@ -1,0 +1,11 @@
+system_name,criticality,software,version
+webserver-01,kritisch,Apache,2.4.49
+datenbank-prod,kritisch,MySQL,5.7.30
+mailserver,hoch,Postfix,3.5.6
+fileserver-intern,mittel,Samba,4.11.6
+testserver,niedrig,Nginx,1.18.0
+buchhaltung-pc,hoch,Windows,10
+entwickler-laptop,mittel,Ubuntu,20.04
+backup-server,hoch,OpenSSH,7.9
+druckerserver,niedrig,CUPS,2.2.10
+vpn-gateway,kritisch,OpenVPN,2.4.7

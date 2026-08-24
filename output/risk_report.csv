@@ -1,0 +1,11 @@
+system_name,software,version,criticality,hoechster_cvss,schlimmste_cve,risiko_score
+webserver-01,Apache,2.4.49,kritisch,9.8,CVE-2021-41773,39.2
+buchhaltung-pc,Windows,10,hoch,10.0,CVE-2004-0090,30.0
+vpn-gateway,OpenVPN,2.4.7,kritisch,7.5,CVE-2020-20813,30.0
+datenbank-prod,MySQL,5.7.30,kritisch,6.5,CVE-2020-14539,26.0
+backup-server,OpenSSH,7.9,hoch,7.8,CVE-2019-16905,23.4
+buchhaltung-pc,Windows,10,hoch,7.5,CVE-2003-0837,22.5
+backup-server,OpenSSH,7.9,hoch,6.8,CVE-2019-6109,20.4
+entwickler-laptop,Ubuntu,20.04,mittel,9.3,CVE-2020-15708,18.6
+backup-server,OpenSSH,7.9,hoch,5.3,CVE-2018-20685,15.899999999999999
+buchhaltung-pc,Windows,10,hoch,4.6,CVE-1999-1133,13.799999999999999
